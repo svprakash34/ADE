@@ -1,0 +1,9 @@
+{
+	"name": "adfsatya001",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "def5f77e-7877-4816-9768-2cbc5d966260",
+		"tenantId": "0176a1b3-a87b-41d5-9295-c07e89f6e45c"
+	}
+}
